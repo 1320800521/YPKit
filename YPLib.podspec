@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "YPKit"
+  s.name         = "YPLib"
   s.version      = "0.0.1"
   s.summary      = "This is a basic framework programr"
 
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 A program infrastructure framework for rapid development
                    DESC
 
-  s.homepage     = "https://github.com/1320800521/YPKit"
+  s.homepage     = "https://github.com/1320800521/YPLib"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ A program infrastructure framework for rapid development
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/1320800521/YPKit.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/1320800521/YPLib.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -91,7 +91,7 @@ A program infrastructure framework for rapid development
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "YPKit/**/*"
+  s.source_files  = "YPLib/**/*"
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"

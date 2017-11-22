@@ -1,6 +1,6 @@
 //
-//  YPKitTests.m
-//  YPKitTests
+//  YPLibDemoTests.m
+//  YPLibDemoTests
 //
 //  Created by yupeng on 2017/11/22.
 //  Copyright © 2017年 yupeng. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface YPKitTests : XCTestCase
+@interface YPLibDemoTests : XCTestCase
 
 @end
 
-@implementation YPKitTests
+@implementation YPLibDemoTests
 
 - (void)setUp {
     [super setUp];
